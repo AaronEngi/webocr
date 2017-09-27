@@ -1,0 +1,3 @@
+rootProject.name = 'WebOcr'
+include 'LibJava'
+project(':LibJava').projectDir = new File(settingsDir, '../LibJava')
